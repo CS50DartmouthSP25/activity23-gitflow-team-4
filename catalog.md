@@ -15,6 +15,6 @@
 [History](history.md) - Department chair: GouthamVee
 
 
-[Mathematics](math.md) - Department chair: <Sky-JF> Joao de Araujo Junior
+[Mathematics](math.md) - Department chair: <Sky-JF> Joao Francisco de Araujo Junior
 
 ---
