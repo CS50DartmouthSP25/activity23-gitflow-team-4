@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: <aamc14527>
 
-[History](history.md) - Department chair: <GouthamVee>
+[History](history.md) - Department chair: GouthamVee
 
 [Mathematics](math.md) - Department chair: <github username>
 
