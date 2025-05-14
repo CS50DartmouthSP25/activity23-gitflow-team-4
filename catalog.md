@@ -8,8 +8,6 @@
 
 [Geography](geography.md) - Department chair: aamc14527
 
-[History](history.md) - Department chair: <github username>
-
 [Mathematics](math.md) - Department chair: <github username>
 
 ---
