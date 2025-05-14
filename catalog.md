@@ -6,11 +6,15 @@
 
 [Economics](economics.md) - Department chair: VaniMiglani
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: aamc14527
+
 
 
 [History](history.md) - Department chair: <github username>
+=======
+[History](history.md) - Department chair: GouthamVee
 
-[Mathematics](math.md) - Department chair: <github username>
+
+[Mathematics](math.md) - Department chair: <Sky-JF> Joao de Araujo Junior
 
 ---
