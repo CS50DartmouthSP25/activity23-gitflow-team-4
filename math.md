@@ -15,4 +15,4 @@
 ---
 ***MATH998*** _MATHEMATICS CAPSTONE PROJECT for SCAREDY CATS_
 > Design a syllabus like in MATH999, but your submission will be automatically rejected.
----
+--- 
